@@ -3,3 +3,4 @@ Git is free software22222.
 git add any something.
 frist second.
 sbaidbu
+今天是2021年03月05日，我在学习git如何使用。
